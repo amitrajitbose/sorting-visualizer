@@ -1,0 +1,27 @@
+.arrayBar {
+    width: 2px;
+    display: inline-block;
+    margin: 1px;
+}
+
+.barsContainer {
+    position: fixed;
+    left: 50px;
+    right: 50px;
+    bottom: 20px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    margin: 5px;
+    left: 150px;
+    right: 150px;
+    padding: 5px;
+}
+
+.settings {
+    padding: 2px;
+    font-size: 14px;
+}
